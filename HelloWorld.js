@@ -1,5 +1,5 @@
 class HelloITI {
-    // printHelloWorld() {
-    //     console.log("Hello, World!");
-    // }
+    printHelloITI() {
+        console.log("Hello, ITI!");
+    }
 }
